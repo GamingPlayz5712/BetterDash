@@ -1,4 +1,8 @@
 
+## v6.3.4
+
+ * Added Disable All Startpos Button
+
 ## v6.3.3
 
  * Make layer lock button fully hidden on All layer
